@@ -5,10 +5,7 @@
  */
 package repositoriogit;
 
-/**
- *
- * @author Piscui
- */
+
 public class RepositorioGit {
 
     /**
@@ -17,6 +14,7 @@ public class RepositorioGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola primer repositorio");
+        System.out.println("Actualizando repositorio");
     }
     
 }
